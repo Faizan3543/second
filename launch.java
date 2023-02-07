@@ -8,4 +8,8 @@ class launch
 	{
 		//code 
 	}
+		void m3()
+	{
+		//code 
+	}
 }
